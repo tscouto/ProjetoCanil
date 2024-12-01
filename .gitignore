@@ -1,0 +1,32 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Diretórios de build
+dist/
+build/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários de editor
+.vscode/
+.idea/
+
+# Teste de coverage
+coverage/
+
+# Arquivos do sistema de operação
+*.bak
+*.swp
+
+# Configurações de IDE (Visual Studio Code, por exemplo)
+.vscode/
